@@ -1,4 +1,4 @@
-### Hey, I'm Ramya! 👋
+## Hey, I'm Ramya! 👋
 
 - 🔭 I’m currently working on Machine learning.
 - 🌱 I’m currently learning Neural networks, HTML.
@@ -8,3 +8,6 @@
 - 📫 How to reach me: [LinkedIn ](https://www.linkedin.com/in/ramya-s-b6ab11163/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
+
+## Credits
+-I learnt it from [here](https://www.youtube.com/watch?v=dkE4mVhwMB4) to get started. Try it out!
