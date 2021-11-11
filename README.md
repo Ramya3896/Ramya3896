@@ -1,5 +1,7 @@
 ## Hey, I'm Ramya! 👋
 
+#I am a Daughter, Sister and Statistician!
+
 - 🔭 I’m currently working on Machine learning.
 - 🌱 I’m currently learning Neural networks, HTML.
 - 👯 I’m looking to collaborate on Github.
